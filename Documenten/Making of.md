@@ -14,9 +14,10 @@ Open je Arduino programma en zorg ervoor dat je programma de juiste Arduino Boar
 
 
 [Gebruik de code dat hier beschreven is.] (https://github.com/YSeyeux/Project-ATL/blob/master/Arduino-Code.ino) Hierbij kan je de cijfers veranderen zoals jij zelf handig vindt. Deze code plaats je in het scherm dat hieronder getoont wordt.
+
 [![ScreenShot](http://puu.sh/mzKEF/8d31c2fca9.png)] (http://puu.sh/mzKEF/8d31c2fca9.png)
 
-Als dat gelukt is kan je met een USB to mini-USB kabel de code uploaden naar de Arduino doormiddel van het -> icoontje.
+Als dat gelukt is kan je met een USB to micro-USB kabel de code uploaden naar de Arduino doormiddel van het -> icoontje.
 
 #Visueel karton werk
 Maak een illustratie dat je wilt gebruiken als lampje. Meet exact hoe ver je lampjes van elkaar zijn. In dit voorbeeld was deze 
@@ -26,10 +27,9 @@ illustratie gemaakt op 9 breedt & 8 hoog. Hierdoor heeft het een beetje ruimte i
 Waneer je je illustratie af hebt print je het af op doorzichtig papier. Dit snij je zodanig zodat het past in het midden van je breadboard.
 [![ScreenShot](http://puu.sh/mzF7e/e7f215c0ac.jpg)] (http://puu.sh/mzF7e/e7f215c0ac.jpg)
 
-Snij het karton op dezelfde maat als je doorzichtig papier en plak het aan het papier. Snij een gat achter het karton zodat je kabels nogsteeds
-makkelijk verbonden zijn.
+Snij het karton op dezelfde maat als je doorzichtig papier en plak het aan het papier doormiddel van plakband of lijm. Snij een gat achter het karton zodat je kabels nogsteeds makkelijk verbonden zijn.
 [![ScreenShot](http://puu.sh/mzEYD/69ba27f428.jpg)] (http://puu.sh/mzEYD/69ba27f428.jpg)
 [![ScreenShot](http://puu.sh/mzFfe/bc190dff17.jpg)] (http://puu.sh/mzFfe/bc190dff17.jpg)
 
-En zo heb je je eigen Temperatuur Sfeerlampje :)
+En zo heb je je eigen Temperatuur Sfeerlampje :) Veel temperatuur plezier!
 [![ScreenShot](http://puu.sh/mzFiv/ce6205010a.jpg)] (http://puu.sh/mzFiv/ce6205010a.jpg)
