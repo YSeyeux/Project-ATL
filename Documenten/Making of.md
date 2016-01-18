@@ -3,10 +3,12 @@
 Download het meest recente programma: [Arduino](https://www.arduino.cc/en/Main/Software) &
 bekijk de [benodigdheden] (https://github.com/YSeyeux/Project-ATL/blob/master/Documenten/Benodigdheden.md)
 
+Zorg ervoor dat je een Arduino hebt. Voor dit voorbeeld is een Arduino Yun gebruikt, maar een Arduino Uno zal ook werken.
+
 Maak je bedrading zoals hieronder weergeven is.
 [![ScreenShot](http://puu.sh/myppx/39f0de15a5.png)] (http://puu.sh/myppx/39f0de15a5.png)
 
-[Gebruik de code dat hier beschreven is.] (https://github.com/YSeyeux/Project-ATL/blob/master/Arduino-Code.ino)Hierbij kan je de cijfers veranderen zoals jij zelf handig vindt
+[Gebruik de code dat hier beschreven is.] (https://github.com/YSeyeux/Project-ATL/blob/master/Arduino-Code.ino) Hierbij kan je de cijfers veranderen zoals jij zelf handig vindt
 
 
 #Visueel karton werk
