@@ -8,8 +8,15 @@ Zorg ervoor dat je een Arduino hebt. Voor dit voorbeeld is een Arduino Yun gebru
 Maak je bedrading zoals hieronder weergeven is.
 [![ScreenShot](http://puu.sh/myppx/39f0de15a5.png)] (http://puu.sh/myppx/39f0de15a5.png)
 
-[Gebruik de code dat hier beschreven is.] (https://github.com/YSeyeux/Project-ATL/blob/master/Arduino-Code.ino) Hierbij kan je de cijfers veranderen zoals jij zelf handig vindt
+Open je Arduino programma en zorg ervoor dat je programma de juiste Arduino Board herkent zoals hieronder getoont.
+[![ScreenShot](http://puu.sh/mzKxt/3683958eef.jpg)] (http://puu.sh/mzKxt/3683958eef.jpg)
 
+
+
+[Gebruik de code dat hier beschreven is.] (https://github.com/YSeyeux/Project-ATL/blob/master/Arduino-Code.ino) Hierbij kan je de cijfers veranderen zoals jij zelf handig vindt. Deze code plaats je in het scherm dat hieronder getoont wordt.
+[![ScreenShot](http://puu.sh/mzKEF/8d31c2fca9.png)] (http://puu.sh/mzKEF/8d31c2fca9.png)
+
+Als dat gelukt is kan je met een USB to mini-USB kabel de code uploaden naar de Arduino doormiddel van het -> icoontje.
 
 #Visueel karton werk
 Maak een illustratie dat je wilt gebruiken als lampje. Meet exact hoe ver je lampjes van elkaar zijn. In dit voorbeeld was deze 
