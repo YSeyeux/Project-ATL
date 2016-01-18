@@ -5,3 +5,5 @@
 [Klik hier voor de project benodigdheden.](Documenten/Benodigdheden.md)  
 [Klik hier voor de tutorial voor de code.](Arduino-Code.ino)  
 [Klik hier voor de tutorial voor het maken van het object.](Documenten/Making of.md)  
+
+Door: Yannick Seyeux
