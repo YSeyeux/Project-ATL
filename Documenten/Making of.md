@@ -5,7 +5,8 @@ bekijk de [benodigdheden] (https://github.com/YSeyeux/Project-ATL/blob/master/Do
 
 Zorg ervoor dat je een Arduino hebt. Voor dit voorbeeld is een Arduino Yun gebruikt, maar een Arduino Uno zal ook werken.
 
-Maak je bedrading zoals hieronder weergeven is.
+Maak je bedrading zoals hieronder weergeven is. Hier worden de ledjes, draadjes, weerstandjes & temperatuur sensor gebruikt.
+
 [![ScreenShot](http://puu.sh/myppx/39f0de15a5.png)] (http://puu.sh/myppx/39f0de15a5.png)
 
 Open je Arduino programma en zorg ervoor dat je programma de juiste Arduino Board herkent zoals hieronder getoont.
