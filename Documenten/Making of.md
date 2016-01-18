@@ -1,13 +1,13 @@
 # Het maken van een Atmospheric Temperature Light
 
-Download het meest recente programma: [Arduino](https://www.arduino.cc/en/Main/Software)
-Bekijk de [benodigdheden] (https://github.com/YSeyeux/Project-ATL/blob/master/Documenten/Benodigdheden.md)
+Download het meest recente programma: [Arduino](https://www.arduino.cc/en/Main/Software) &
+bekijk de [benodigdheden] (https://github.com/YSeyeux/Project-ATL/blob/master/Documenten/Benodigdheden.md)
 
 Maak je bedrading zoals hieronder weergeven is.
 [![ScreenShot](http://puu.sh/myppx/39f0de15a5.png)] (http://puu.sh/myppx/39f0de15a5.png)
 
-Gebruik de code dat hier beschreven is. Hierbij kan je de cijfers veranderen zoals jij zelf handig vindt
-https://github.com/YSeyeux/Project-ATL/blob/master/Arduino-Code.ino
+[Gebruik de code dat hier beschreven is.] (https://github.com/YSeyeux/Project-ATL/blob/master/Arduino-Code.ino)Hierbij kan je de cijfers veranderen zoals jij zelf handig vindt
+
 
 #Visueel karton werk
 Maak een illustratie dat je wilt gebruiken als lampje. Meet exact hoe ver je lampjes van elkaar zijn. In dit voorbeeld was deze 
