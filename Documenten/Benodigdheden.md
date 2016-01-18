@@ -1,6 +1,5 @@
 ## Benodigdeheden voor dit project
 
-
     • Een Arduino
     • 1 breadboard
     • TMP36GZ Temperature Sensor
@@ -13,6 +12,7 @@
     • Illustratie software
     • Doorzichtig printpapier 
     • Karton om te snijden
+    • Snijmes voor papier & karton
     • Zwarte verf/stift
     • Lijm of plakband
   
